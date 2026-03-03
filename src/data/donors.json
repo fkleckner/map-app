@@ -1,0 +1,64 @@
+{
+  "locations": [
+    {
+      "filename": "assets/ckut8.jpg",
+      "location": [-73.5794772741299, 45.5082045727207361],
+      "name": "CKUT 90.3 FM"
+    },
+    {
+      "filename": "assets/dgkicks.jpeg",
+      "location": [-73.64412959579015, 45.4672927321059],
+      "name": "DG Kicks"
+    },
+    {
+      "filename": "assets/broadcast.jpg",
+      "location": [-73.5912053227175, 45.5054429753278467],
+      "name": "Broadcast"
+    },
+    {
+      "filename": "assets/casadelpopolo.jpg",
+      "location": [-73.5905247029652, 45.52229202563102],
+      "name": "Casa del Popolo"
+    },
+    {
+      "filename": "assets/atomheart.jpg",
+      "location": [-73.56739866063737, 45.51670381910617],
+      "name": "Atom Heart"
+    },
+    {
+      "filename": "assets/clcycle.png",
+      "location": [-73.57473386992585, 45.52558124728467],
+      "name": "Cycling Club"
+    },
+    {
+      "filename": "assets/encore.png",
+      "location": [-73.6150360318036, 45.47087292863592],
+      "name": "Encore Records"
+    },
+    {
+      "filename": "assets/mutek.png",
+      "location": [-73.56280290296581, 45.50967372557849],
+      "name": "Mutek"
+    },
+    {
+      "filename": "assets/popmtl.svg",
+      "location": [-73.6026300846781, 45.5226753430283253],
+      "name": "Pop MTL"
+    },
+    {
+      "filename": "assets/puttingedge.jpg",
+      "location": [-73.57725552942783, 45.4954124046894],
+      "name": "Putting Edge"
+    },
+    {
+      "filename": "assets/paragraphe.jpg",
+      "location": [-73.574119255831, 45.503388749705216],
+      "name": "Paragraphe Bookstore"
+    },
+    {
+      "filename": "assets/lolarosa.jpg",
+      "location": [-73.57569694536696, 45.50768340396568],
+      "name": "Lola Rosa"
+    }
+  ]
+}
